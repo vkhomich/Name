@@ -1,0 +1,17 @@
+Project:
+                         Issue type:
+                         Summary:
+                         Severity/Importance:
+                         Priority:
+                         Component/s:
+                         Affect version:
+                         Fix version:
+                         Environment:
+                         Description:
+                               Steps:
+                                -
+                                -
+                                -
+                               Actual result:
+                               Expected result:
+                         Error type:
